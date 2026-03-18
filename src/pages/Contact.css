@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.c{
+    background-color: antiquewhite;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+.c form h1{
+    text-align: center;
+}
+.c form{
+    background-color: rgb(210, 184, 235);
+    padding: 20px;
+    width: 50vw;
+    /* padding: ; */
+}
+ .c form label{
+    margin-top: 8px;
+ }
+.c form input{
+    width: 100%;
+    height: 50px;
+    margin-top: 15px;
+    border-radius: 8px;
+    /* text-decoration: dotted; */
+    border: none;
+    padding: 8px;
+}
+.c form input:hover{
+    cursor: pointer;
+}
+.c form textarea{
+     width: 100%;
+    height: 50px;
+    margin-top: 15px;
+    border:none;
+    border-radius: 8px;
+}

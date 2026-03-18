@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    background-color: black;
+    width: 100vw;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 300px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.nav .n{
+    color: aliceblue;
+    font-weight: bold;
+    text-decoration: none;
+}

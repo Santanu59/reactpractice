@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+.ab{
+    background-color: rgb(152, 176, 176);
+    width: 100vw;
+    height: 100vh;
+    padding: 30px;
+}
+.ab h2{
+    text-align: center;
+    padding: 20px;
+}
